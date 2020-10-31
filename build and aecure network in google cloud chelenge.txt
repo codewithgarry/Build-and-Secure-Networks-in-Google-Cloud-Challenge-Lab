@@ -66,4 +66,4 @@ Task 6:In the Compute Engine instances page, click the SSH button for the bastio
 
 In the Compute Engine instances page, click the SSH button for the bastion host. Once connected, SSH to juice-shop.
 
-ssh [IP address of juice-shop]
+ssh [internal IP address of juice-shop]
