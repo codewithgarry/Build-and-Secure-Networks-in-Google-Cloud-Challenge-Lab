@@ -14,7 +14,7 @@ gcloud compute firewall-rules delete open-access
 Task 2:Navigate to Compute Engine in the Cloud Console and identify the bastion host. The instance should be stopped. Start the instance.
 
 
-gcloud compute instances start bastion
+gcloud compute instances start bastion --zone us-central1-b
 
 
 
