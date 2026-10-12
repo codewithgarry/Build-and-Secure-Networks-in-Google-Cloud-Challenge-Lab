@@ -1,5 +1,7 @@
 # Build and Secure Networks in Google Cloud: Challenge Lab (GSP322)
 
+> 📦 **Archived.** This lab is now maintained in **[google-cloud-skills-boost-notes](https://github.com/codewithgarry/google-cloud-skills-boost-notes/tree/main/compute-networking/gsp322-build-and-secure-networks)** with my other Google Cloud lab notes. This repository is read-only.
+
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Lab](https://img.shields.io/badge/Lab-GSP322-34A853)
 ![Topic](https://img.shields.io/badge/Topic-Network_Security-red)
